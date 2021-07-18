@@ -5,6 +5,12 @@
     </head>
     <body>
     <script type= "text/javascript">
+    var i, col=5;
+    for(i=0; i<col; i++)
+             {
+
+             }
+
         </script>
         </body>
         </html>
