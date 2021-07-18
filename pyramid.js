@@ -10,7 +10,7 @@
              {
                  for(k=0; k<=(col-i); k++)
                  {
-                     
+                     document.write("&nbsp");
                  }
 
                  for(j=0; j<=i; j++)  
